@@ -10,3 +10,6 @@ Physical Control Components [and discrete representative states]:
 
 Physical Detection Components [and functional outputs]
 - Tube Detector Check [Present, Empty]
+
+Trial Emulation #1: use of the "processing" (visual coding) language
+Architectural Design: FSM Event Driven
